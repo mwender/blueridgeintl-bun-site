@@ -1,0 +1,1 @@
+import{d as t,j as e,N as s}from"./main-CMR-M6nD.js";import{L as a}from"./Layout-DPyZNrQ0.js";function m(){const o=t.useLoaderData();return e.jsx(a,{children:e.jsx(s,{page:o})})}export{m as component};
