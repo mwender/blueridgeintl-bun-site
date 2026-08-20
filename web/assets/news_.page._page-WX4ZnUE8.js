@@ -1,0 +1,1 @@
+import{d as t,j as e,N as s}from"./main-ZZ1CkOAP.js";import{L as a}from"./Layout-CxzdPpef.js";function m(){const o=t.useLoaderData();return e.jsx(a,{children:e.jsx(s,{page:o})})}export{m as component};
